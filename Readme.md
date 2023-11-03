@@ -1,1 +1,1 @@
-https://virajdey.github.io/FoodOrdering.github.io/
+https://virajdey.github.io/FoodOrdering/
